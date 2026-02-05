@@ -1,7 +1,16 @@
 {
     "roles": {
-        "TICKET": "",
-        "FISCAL": "",
-        "REPORT": ""
+        "TICKET": {
+            "name": "POS-58",
+            "width": 58
+        },
+        "FISCAL": {
+            "name": "POS-58",
+            "width": 58
+        },
+        "REPORT": {
+            "name": "POS-58",
+            "width": 58
+        }
     }
 }
