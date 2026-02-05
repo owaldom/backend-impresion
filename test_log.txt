@@ -1,0 +1,11 @@
+Testing RawPrinter...
+Sending dummy data to POS-58...
+PowerShell Raw Print Error: La l´┐¢nea de comandos es demasiado larga.
+
+Ô£ù Failed: Error: Failed to print to POS-58: La l´┐¢nea de comandos es demasiado larga.
+
+    at C:\Proyectos\F_mangoPosSunMarket\backend-impresion\src\utils\rawPrinter.js:103:35
+    at ChildProcess.exithandler (node:child_process:424:5)
+    at ChildProcess.emit (node:events:508:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
